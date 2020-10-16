@@ -31,7 +31,7 @@ __*Испытание 2: Что-то с FOCA*__
 __*Испытание 3: CCleaner и еще что-то*__
   
 - Установил и запустил CCleaner  
-![1111](https://im3.ezgif.com/tmp/ezgif-3-592f0a84a7a5.gif)    
+![2222](https://im3.ezgif.com/tmp/ezgif-3-592f0a84a7a5.gif)    
   
 - Сделал дубликат Пророка Санбоя  
   
