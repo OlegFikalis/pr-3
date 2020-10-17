@@ -30,7 +30,7 @@ __*Испытание 2: Что-то с FOCA*__
   
   
   
-__*Испытание 3: CCleaner и еще что-то*__
+__*Испытание 3: CCleaner и еще что-то*__  
 ![z2](https://user-images.githubusercontent.com/70691206/96337194-c2d36880-108d-11eb-90c2-c4a52237af63.png)
 
   
