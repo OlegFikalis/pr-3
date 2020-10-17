@@ -38,7 +38,7 @@ __*Испытание 3: CCleaner и еще что-то*__
 ![1](https://user-images.githubusercontent.com/70691206/96319658-fd4eee00-1018-11eb-9325-8898d14b97f8.gif)  
   
 - Сделал дубликат Пророка Санбоя  
-![2](https://user-images.githubusercontent.com/70691206/96320473-26707e00-101b-11eb-8581-b437b33b3203.gif)
+![2](https://user-images.githubusercontent.com/70691206/96337306-d3d0a980-108e-11eb-8903-87a1f5ca6ac3.gif)
   
 - Скачал, установил и удалил приложение (пользуюсь отечественным софтом, так сказать, поэтому удаление произвел с помощью Reg Organizer)  
 ![3](https://user-images.githubusercontent.com/70691206/96321306-a13a9880-101d-11eb-9a76-5533d3de7047.gif)  
