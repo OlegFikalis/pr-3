@@ -44,6 +44,7 @@ __*Испытание 3: CCleaner и еще что-то*__
 ![3](https://user-images.githubusercontent.com/70691206/96321306-a13a9880-101d-11eb-9a76-5533d3de7047.gif)  
   
 - Просканировал систему с помощью CCleaner, все оказалось чисто
-![4](https://user-images.githubusercontent.com/70691206/96338397-77718800-1096-11eb-80c6-e8041aaf9f39.gif)
+![11122](https://user-images.githubusercontent.com/70691206/96339776-58c3bf00-109f-11eb-83c3-baab71aea9b3.gif)
+
 
 
