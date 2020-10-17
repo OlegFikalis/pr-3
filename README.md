@@ -1,4 +1,6 @@
 __*Испытание 1: Просмотреть метаданные и хоть что-то понять*__
+![z1](https://user-images.githubusercontent.com/70691206/96337131-56f10000-108d-11eb-88a3-a693bc70303c.png)
+
 
 Посмотрел я ети ваши Exif'ы - чуток в чтоны наложил  
 Фотография - https://www.upload.ee/download/12383835/6a7bb7688033180b91ae/20201013_024129.jpg  
@@ -29,6 +31,8 @@ __*Испытание 2: Что-то с FOCA*__
   
   
 __*Испытание 3: CCleaner и еще что-то*__
+![z2](https://user-images.githubusercontent.com/70691206/96337194-c2d36880-108d-11eb-90c2-c4a52237af63.png)
+
   
 - Установил и запустил CCleaner  
 ![1](https://user-images.githubusercontent.com/70691206/96319658-fd4eee00-1018-11eb-9325-8898d14b97f8.gif)  
