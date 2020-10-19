@@ -24,25 +24,34 @@
    
    
    
-![3](https://user-images.githubusercontent.com/70691206/96512955-f5d25380-1269-11eb-9ecf-17b7ff60d361.jpg)  
+![](https://user-images.githubusercontent.com/70691206/96512955-f5d25380-1269-11eb-9ecf-17b7ff60d361.jpg)  
+  
+Установил я FOCA, вписал все (ну или почти все), что нужно  
+![](https://im7.ezgif.com/tmp/ezgif-7-75ee2734a6eb.gif)  
+   
+Проанализировал сайт, который не хотел мне ничего выдавать, кроме одного документа.
+![](https://user-images.githubusercontent.com/70691206/96519285-4dc28780-1275-11eb-97ca-ba07709a0032.jpg)  
   
    
+Открыл я этот файл и понял, что меня продавали 4 года
+*скрин*
+Конец.
    
    
 ![z2](https://user-images.githubusercontent.com/70691206/96337194-c2d36880-108d-11eb-90c2-c4a52237af63.png)
    
    
 - Установил и запустил CCleaner  
-![1](https://user-images.githubusercontent.com/70691206/96319658-fd4eee00-1018-11eb-9325-8898d14b97f8.gif)  
+![](https://user-images.githubusercontent.com/70691206/96319658-fd4eee00-1018-11eb-9325-8898d14b97f8.gif)  
   
 - Сделал дубликат Пророка Санбоя  
-![2](https://user-images.githubusercontent.com/70691206/96337306-d3d0a980-108e-11eb-8903-87a1f5ca6ac3.gif)
+![](https://user-images.githubusercontent.com/70691206/96337306-d3d0a980-108e-11eb-8903-87a1f5ca6ac3.gif)
   
 - Скачал, установил и удалил приложение (пользуюсь отечественным софтом, так сказать, поэтому удаление произвел с помощью Reg Organizer)  
-![3](https://user-images.githubusercontent.com/70691206/96321306-a13a9880-101d-11eb-9a76-5533d3de7047.gif)  
+![](https://user-images.githubusercontent.com/70691206/96321306-a13a9880-101d-11eb-9a76-5533d3de7047.gif)  
   
 - Просканировал систему с помощью CCleaner, все оказалось чисто
-![11122](https://user-images.githubusercontent.com/70691206/96339776-58c3bf00-109f-11eb-83c3-baab71aea9b3.gif)
+![](https://user-images.githubusercontent.com/70691206/96339776-58c3bf00-109f-11eb-83c3-baab71aea9b3.gif)
 
 
 
