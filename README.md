@@ -21,17 +21,17 @@
 - Скорость ISO - 800  
 - Разрешение по оси X - 72  
 - Разрешение по оси Y - 72  
-  
-  
-  
+   
+   
+   
 ![3](https://user-images.githubusercontent.com/70691206/96346706-ebfff300-10a5-11eb-98ea-e00e75892845.png)  
 Разберусь позже  
-  
-  
-  
+   
+   
+   
 ![z2](https://user-images.githubusercontent.com/70691206/96337194-c2d36880-108d-11eb-90c2-c4a52237af63.png)
-
-  
+   
+   
 - Установил и запустил CCleaner  
 ![1](https://user-images.githubusercontent.com/70691206/96319658-fd4eee00-1018-11eb-9325-8898d14b97f8.gif)  
   
