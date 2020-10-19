@@ -24,8 +24,8 @@
    
    
    
-![3](https://user-images.githubusercontent.com/70691206/96346706-ebfff300-10a5-11eb-98ea-e00e75892845.png)  
-Разберусь позже  
+![3](https://user-images.githubusercontent.com/70691206/96512955-f5d25380-1269-11eb-9ecf-17b7ff60d361.jpg)  
+  
    
    
    
