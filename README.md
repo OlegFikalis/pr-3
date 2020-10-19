@@ -1,6 +1,6 @@
-![z1](https://user-images.githubusercontent.com/70691206/96337131-56f10000-108d-11eb-88a3-a693bc70303c.png)
-
-
+![z2](https://user-images.githubusercontent.com/70691206/96337131-56f10000-108d-11eb-88a3-a693bc70303c.png)
+   
+   
 Посмотрел я ети ваши Exif'ы - чуток в чтоны наложил  
 Фотография - https://www.upload.ee/download/12383835/6a7bb7688033180b91ae/20201013_024129.jpg  
 Фулл метаданных - https://i.imgur.com/EM6jB2z.jpg  
@@ -24,19 +24,21 @@
    
    
    
-![](https://user-images.githubusercontent.com/70691206/96512955-f5d25380-1269-11eb-9ecf-17b7ff60d361.jpg)  
-  
+   
+![z2](https://user-images.githubusercontent.com/70691206/96512955-f5d25380-1269-11eb-9ecf-17b7ff60d361.jpg)
+   
+   
 Установил я FOCA, вписал все (ну или почти все), что нужно  
 ![](https://im7.ezgif.com/tmp/ezgif-7-75ee2734a6eb.gif)  
    
 Проанализировал сайт, который не хотел мне ничего выдавать, кроме одного документа.
 ![](https://user-images.githubusercontent.com/70691206/96519285-4dc28780-1275-11eb-97ca-ba07709a0032.jpg)  
-  
    
 Открыл я этот файл и понял, что меня 4 года продавали  
 ![](https://user-images.githubusercontent.com/70691206/96519478-c1fd2b00-1275-11eb-9608-8bd13fe19518.png)  
-   
 Конец.  
+   
+   
    
    
 ![z2](https://user-images.githubusercontent.com/70691206/96337194-c2d36880-108d-11eb-90c2-c4a52237af63.png)
