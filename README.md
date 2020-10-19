@@ -1,4 +1,3 @@
-__*Испытание 1: Просмотреть метаданные и хоть что-то понять*__
 ![z1](https://user-images.githubusercontent.com/70691206/96337131-56f10000-108d-11eb-88a3-a693bc70303c.png)
 
 
@@ -25,13 +24,11 @@ __*Испытание 1: Просмотреть метаданные и хоть
   
   
   
-__*Испытание 2: Что-то с FOCA*__  
 ![3](https://user-images.githubusercontent.com/70691206/96346706-ebfff300-10a5-11eb-98ea-e00e75892845.png)  
 Разберусь позже  
   
   
   
-__*Испытание 3: CCleaner и еще что-то*__  
 ![z2](https://user-images.githubusercontent.com/70691206/96337194-c2d36880-108d-11eb-90c2-c4a52237af63.png)
 
   
