@@ -29,7 +29,7 @@
    
    
 Установил я FOCA, вписал все (ну или почти все), что нужно  
-![](https://im7.ezgif.com/tmp/ezgif-7-75ee2734a6eb.gif)  
+![](https://user-images.githubusercontent.com/70691206/96569938-7036be00-12d2-11eb-9cf9-0c22152356d1.gif)
    
 Проанализировал сайт, который не хотел мне ничего выдавать, кроме одного документа.
 ![](https://user-images.githubusercontent.com/70691206/96519285-4dc28780-1275-11eb-97ca-ba07709a0032.jpg)  
